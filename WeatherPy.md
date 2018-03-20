@@ -2602,7 +2602,7 @@ plt.show()
 ```python
 # Data analysis
 
-# 1. Temperature increases as the latitude approaches towards 0.
-# 2. A lot of cities in the northern hemisphere is experience no wind speed.
+# 1. Temperature increases as the latitude approaches closer towards 0.
+# 2. A good number of cities located in the northern hemisphere has no cloud coverage.
 # 3. Most cities with 100% humidity are concentrated at and near the equator.
 ```
