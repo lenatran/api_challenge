@@ -2598,11 +2598,8 @@ plt.show()
 ![png](output_12_0.png)
 
 
+Data analysis:
 
-```python
-# Data analysis
-
-# 1. Temperature increases as the latitude approaches closer towards 0.
-# 2. A good number of cities located in the northern hemisphere has no cloud coverage.
-# 3. Most cities with 100% humidity are concentrated at and near the equator.
-```
+1. Temperature increases as the latitude approaches closer towards the equator (latitude 0).
+2. Cities located at 40 degrees latitude and higher have a temperature at and below freezing.
+3. Cities with 100% humidity are mostly concentrated at and near the equator, specifically between (-20, 20) on the latitude axes.
